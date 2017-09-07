@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">Remember The Pills</string>
+    <string name="add_pill">Añadir pastilla</string>
+    <string name="pill_name">Nombre de la pastilla</string>
+    <string name="pill_description">Descripción de la pastilla</string>
+    <string name="pill_id">ID de la pastilla</string>
+    <string name="save">Guardar</string>
+    <string name="discard">Descartar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="settings">Ajustes</string>
+    <string name="actions">Acciones</string>
+    <string name="about">Acerca de</string>
+    <string name="spanish">Español</string>
+    <string name="english">Inglés</string>
+    <string name="french">Francés</string>
+    <string name="take_photo">Sacar foto</string>
+    <string name="delete_dialog_title">Confirmar eliminación</string>
+    <string name="delete_dialog_message">¿Seguro que quieres eliminar esta pastilla?</string>
+    <string name="add_pill_success">Pastilla añadida correctamente</string>
+    <string name="update_pill_success">Pastilla actualizada correctamente</string>
+    <string name="remove_pill_success">Pastilla eliminada correctamente</string>
+    <string name="language_pref_title">Idioma de la aplicación</string>
+    <string name="language_pref_summary">Establece el idioma a usar en los menús</string>
+    <string name="language_pref_dialog_title">Selecciona un idioma</string>
+    <string name="pref_settings_title">Ajustes generales de la aplicación</string>
+    <string name="dark_theme_pref_title">Usar el tema oscuro</string>
+    <string name="dark_theme_pref_summary">Activa esta opción para usar fondos oscuros en la aplicación</string>
+    <string name="ellipsis_vertical" translatable="false">&#8942;</string>
+</resources>

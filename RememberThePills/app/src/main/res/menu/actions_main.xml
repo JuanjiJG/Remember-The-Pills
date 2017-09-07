@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--Add Pill button, should appear as action button if possible-->
+    <item
+        android:id="@+id/add_pill_menu_item"
+        android:icon="@drawable/ic_add_white_24px"
+        app:showAsAction="always"
+        android:title="@string/add_pill" />
+
+    <!--Settings button, should always be in the overflow menu-->
+    <item
+        android:id="@+id/settings_menu_item"
+        app:showAsAction="never"
+        android:title="@string/settings" />
+
+    <!--About button, should always be in the overflow menu-->
+    <item
+        android:id="@+id/about_menu_item"
+        app:showAsAction="never"
+        android:title="@string/about" />
+
+</menu>
