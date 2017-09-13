@@ -16,9 +16,5 @@
         android:title="@string/settings" />
 
     <!--About button, should always be in the overflow menu-->
-    <item
-        android:id="@+id/about_menu_item"
-        app:showAsAction="never"
-        android:title="@string/about" />
 
 </menu>

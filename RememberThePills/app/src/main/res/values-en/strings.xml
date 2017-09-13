@@ -26,4 +26,5 @@
     <string name="update_pill_success">Pill updated successfully</string>
     <string name="add_pill_success">Pill added successfully</string>
     <string name="remove_pill_success">Pill removed successfully</string>
+    <string name="take_photo">Take photo</string>
 </resources>
